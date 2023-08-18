@@ -1,3 +1,3 @@
 ## BLack-Scholes
 
-![My Image](BS.pnj)
+![My Image](BS.png)
